@@ -1,0 +1,1 @@
+Planings app for final project
